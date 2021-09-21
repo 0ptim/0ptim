@@ -2,6 +2,8 @@
 
 .Net C# Programmer here which has shifted completly to Modern Web App Development using Blazor.
 
+I develop Singel Page Applications (SPA) with Blazor and Webflow.
+
 ## My skills
 <a href="https://dotnet.microsoft.com/">
     <img align="left" alt="CSharp" width="64px" src="./media/CSharp.png" />
@@ -32,7 +34,7 @@
 </a>
 
 <a href="https://github.com/">
-    <img align="left" alt="git" width="100px" src="./media/git.png" />
+    <img align="left" alt="git" width="64px" src="./media/git.png" />
 </a>
 
 <a href="https://git-scm.com/">
