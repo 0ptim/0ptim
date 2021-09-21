@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-.Net C# Programmer here which has shifted completly to Modern Web App Development using Blazor.
+.Net C# Programmer here which has shifted to Modern Web App Development using Blazor.
 
 I develop Singel Page Applications (SPA) with Blazor and Webflow.
 
@@ -11,6 +11,10 @@ I develop Singel Page Applications (SPA) with Blazor and Webflow.
 
 <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor">
     <img align="left" alt="Blazor" width="64px" src="./media/Blazor.png" />
+</a>
+
+<a href="https://dotnet.microsoft.com/">
+    <img align="left" alt="dotnet" width="64px" src="./media/dotnet.png" />
 </a>
 
 <br><br/>
@@ -33,12 +37,12 @@ I develop Singel Page Applications (SPA) with Blazor and Webflow.
     <img align="left" alt="GitHub" width="64px" src="./media/GitHub.png" />
 </a>
 
-<a href="https://github.com/">
+<a href="https://git-scm.com/">
     <img align="left" alt="git" width="64px" src="./media/git.png" />
 </a>
 
-<a href="https://git-scm.com/">
-    <img align="left" alt="Webflow" width="100px" src="./media/Webflow.png" />
+<a href="https://webflow.com/">
+    <img align="left" alt="Webflow" width="64px" src="./media/Webflow.png" />
 </a>
 
 <br><br/>
