@@ -3,7 +3,7 @@
 .Net C# Programmer here which has shifted completly to Modern Web App Development using Blazor.
 
 ## My skills
-<a href="https://www.w3schools.com">
+<a href="https://www.w3schools.com" target="_blank">
     <img align="left" alt="CSharp" width="64px" src="./media/CSharp.png" />
 </a>
 <img align="left" alt="Blazor" width="64px" src="./media/Blazor.png" />
