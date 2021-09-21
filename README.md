@@ -11,14 +11,10 @@
     <img align="left" alt="Blazor" width="64px" src="./media/Blazor.png" />
 </a>
 
-<a href="https://webflow.com/">
-    <img align="left" alt="Webflow" width="100px" src="./media/Webflow.png" />
-</a>
+<br><br/>
+<br><br/>
 
-<a href="https://github.com/">
-    <img align="left" alt="GitHub" width="64px" src="./media/GitHub.png" />
-</a>
-
+## The tools I use
 <a href="https://code.visualstudio.com/">
     <img align="left" alt="Visual Studio Code" width="64px" src="./media/VSCode.png" />
 </a>
@@ -26,6 +22,27 @@
 <a href="https://visualstudio.microsoft.com/">
     <img align="left" alt="Visual Studio" width="64px" src="./media/VS.png" />
 </a>
+
+<a href="https://azure.microsoft.com/de-de/services/devops/">
+    <img align="left" alt="Azure DevOps" width="64px" src="./media/AzureDevOps.png" />
+</a>
+
+<a href="https://github.com/">
+    <img align="left" alt="GitHub" width="64px" src="./media/GitHub.png" />
+</a>
+
+<a href="https://github.com/">
+    <img align="left" alt="git" width="100px" src="./media/git.png" />
+</a>
+
+<a href="https://git-scm.com/">
+    <img align="left" alt="Webflow" width="100px" src="./media/Webflow.png" />
+</a>
+
+<br><br/>
+<br><br/>
+
+## I can work with
 
 <a href="https://en.wikipedia.org/wiki/SQL">
     <img align="left" alt="SQL" width="100px" src="./media/SQL.png" />
@@ -38,12 +55,9 @@
     <img align="left" alt="CSS" width="64px" src="./media/CSS.png" />
 </a>
 
-
-<br><br/>
-<br><br/>
-
-## I can work with
-
+<a href="https://microsoft.github.io/microsoft-ui-xaml/">
+    <img align="left" alt="WinUI" width="64px" src="./media/WinUI.png" />
+</a>
 
 ## 
 
