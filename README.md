@@ -1,12 +1,7 @@
 ### Hi there 👋
-
-https://www.linkedin.com/in/joshua-kummer/
-
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?logo=Twitter&logoColor=white)](https://twitter.com/0ptim_)
 [![LinkeIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/joshua-kummer/)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=0ptim)
-[![GitHub followers](https://img.shields.io/github/followers/0ptim.svg?style=social&label=Follow)](https://github.com/0ptim?tab=followers)
+[![Reddit Badge](https://img.shields.io/badge/Reddit-orange?style=flat&logo=reddit&labelColor=white&color=orange)](https://www.reddit.com/user/0ptim)
 
 .Net C# Programmer here which has shifted to Modern Web App Development using Blazor.
 
@@ -72,3 +67,9 @@ I develop Single Page Applications (SPA) with Blazor and Webflow.
 <a href="https://microsoft.github.io/microsoft-ui-xaml/">
     <img align="left" alt="WinUI" width="64px" src="./media/WinUI.png" />
 </a>
+
+<br><br/>
+<br><br/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=0ptim)
+[![GitHub followers](https://img.shields.io/github/followers/0ptim.svg?style=social&label=Follow)](https://github.com/0ptim?tab=followers)
