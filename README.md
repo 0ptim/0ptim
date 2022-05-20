@@ -5,7 +5,7 @@
 
 .Net C# Programmer here which has shifted to Modern Web App Development using Blazor.
 
-I develop Single Page Applications (SPA) with Blazor and Webflow.
+I develop Single Page Applications (SPA) with Blazor.
 
 ## My skills
 <a href="https://dotnet.microsoft.com/">
